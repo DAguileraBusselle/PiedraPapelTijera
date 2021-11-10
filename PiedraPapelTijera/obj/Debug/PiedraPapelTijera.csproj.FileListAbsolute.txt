@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe.config
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.pdb
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Properties.Resources.resources
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.GenerateResource.cache
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.exe
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.pdb
+C:\Users\david\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Form1.resources
